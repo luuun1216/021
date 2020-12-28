@@ -1,2 +1,2 @@
-print("luuun")
-print("B0743021")
+print("lun")
+print("021")
